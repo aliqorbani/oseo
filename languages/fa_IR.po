@@ -1,0 +1,2489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: chatra\n"
+"POT-Creation-Date: 2017-02-14 12:21+0330\n"
+"PO-Revision-Date: 2017-02-14 12:22+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x;esc_attr_x;esc_html__;"
+"esc_html_e;_nx;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/admin/redux-framework\n"
+"X-Poedit-SearchPathExcluded-1: inc/admin/redux-extensions\n"
+"X-Poedit-SearchPathExcluded-2: inc/admin/tgm\n"
+
+#: 404.php:6
+msgid "Not Found"
+msgstr "پیدا نشد"
+
+#: 404.php:7
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr ""
+"صفحه ای که شما بدنبال آن هستید ممکن است تغییر نام داده شده باشد یا حذف شده "
+"باید یا بطور موقت ازدسترس خارج شده باشد ."
+
+#: 404.php:8
+msgid "Please try the following:"
+msgstr "لطفا از روشهای زیر استفاده کنید."
+
+#: 404.php:10
+msgid "Check your spelling"
+msgstr "بررسی دقیق آدرس"
+
+#: 404.php:11
+#, php-format
+msgid "Return to the <a href=\"%s\">home page</a>"
+msgstr "به <a href=\"%s\">صفحه خانه</a> برگردید"
+
+#: 404.php:12
+msgid "Click the <a href=\"javascript:history.back()\">Back</a> button"
+msgstr "دکمه <a href=\"javascript:history.back()\">بازگشت</a> را کلیک کنید"
+
+#: archive-course.php:11 woocommerce/myaccount/my-orders.php:55
+#: woocommerce/myaccount/orders.php:51
+msgid "#"
+msgstr "#"
+
+#: archive-course.php:12
+msgid "title"
+msgstr "عنوان"
+
+#: archive-course.php:13
+msgid "place"
+msgstr "مکان "
+
+#: archive-course.php:14
+msgid "starting date"
+msgstr "تاریخ برگزاری"
+
+#: archive-course.php:15
+msgid "teacher"
+msgstr "استاد"
+
+#: archive-course.php:16
+msgid "coast"
+msgstr "قیمت دوره"
+
+#: archive-course.php:44 archive.php:17 category.php:17 page.php:39
+#: single-course.php:70 single.php:35
+msgid "Sorry, no posts matched your criteria"
+msgstr "متاسفانه هیچ نوشته و مطلبی با این ضوابط پیدا نشد."
+
+#: archive.php:13 category.php:13
+msgid "Continue Reading ..."
+msgstr "ادامه مطلب ..."
+
+#: comments.php:14
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "تنها یک نفر برای نوشته&rdquo; %s &ldquo;  نظر ارسال کرده است."
+
+#: comments.php:19
+#, php-format
+msgid "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr "%1$s نظر برای نوشته &rdquo; %2$s &ldquo;"
+
+#: comments.php:29 comments.php:48
+msgid "Comment navigation"
+msgstr "صفحه بندی نظرات"
+
+#: comments.php:31 comments.php:50
+msgid "&larr; Older Comments"
+msgstr "&larr; نظرات قدیمی تر"
+
+#: comments.php:32 comments.php:51
+msgid "Newer Comments &rarr;"
+msgstr "نظرات جدیدتر &rarr;"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "نظرات غیر فعال میباشد"
+
+#: comments.php:97 woocommerce/single-product-reviews.php:74
+msgid "Name"
+msgstr "نام"
+
+#: comments.php:105 woocommerce/single-product-reviews.php:80
+msgid "Email"
+msgstr "ایمیل"
+
+#: comments.php:115 woocommerce/single-product-reviews.php:108
+msgid "Comment"
+msgstr "نظر"
+
+#: comments.php:121
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"می توانید از این <abbr title=\"HyperText Markup Language\">HTML</abbr> برچسب "
+"ها و خصوصیات: %s استفاده کنید"
+
+#: functions.php:67
+msgid "Primary Menu"
+msgstr "منوی اصلی"
+
+#: functions.php:68
+msgid "Top Bar Menu"
+msgstr "منوی بالا"
+
+#: functions.php:81
+msgid "Main Sidebar"
+msgstr "نوار کناری اصلی"
+
+#: functions.php:91
+msgid "Sticky Sidebar"
+msgstr "نوار کناری چسبان"
+
+#: functions.php:101
+msgid "Shop Sidebar"
+msgstr "نوار کناری فروشگاه"
+
+#: functions.php:111
+msgid "Top Sidebar"
+msgstr "نوار ابزارک بالا(صفحات داخلی)"
+
+#: functions.php:112
+msgid "showing on top of single posts and pages"
+msgstr "در تمامی صفحات داخلی بالاتر از متن قرار میگیرد"
+
+#: functions.php:122
+msgid "Footer 1"
+msgstr "فوتر 1"
+
+#: functions.php:123
+msgid "showing on footer"
+msgstr "نمایش در فوتر"
+
+#: functions.php:133
+msgid "Footer 2"
+msgstr "فوتر 2"
+
+#: functions.php:134
+msgid "showing on footer middle"
+msgstr "نمایش در ستون میانی فوتر"
+
+#: functions.php:144
+msgid "Footer 3"
+msgstr "فوتر 3"
+
+#: functions.php:145
+msgid "showing on Footer"
+msgstr "نمایش در فوتر"
+
+#: header.php:23
+msgid "User Menu"
+msgstr "منوی کاربر"
+
+#: header.php:31
+msgid "IR Flag"
+msgstr "ایران"
+
+#: header.php:32
+msgid "UK Flag"
+msgstr "انگلیسی"
+
+#: header.php:36 woocommerce/auth/form-login.php:44
+#: woocommerce/global/form-login.php:48 woocommerce/myaccount/form-login.php:37
+#: woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr "ورود"
+
+#: header.php:37
+msgid "register"
+msgstr "ثبت نام"
+
+#: header.php:39
+msgid "My Profile"
+msgstr "پروفایل من"
+
+#: header.php:54
+msgid "Main Menu"
+msgstr "منوی اصلی"
+
+#: header.php:74
+msgid "Please go to admin panel and add a new menu as \"Primary\" location"
+msgstr "لطفا به بخش مدیریت رفته و یک منوی جدید را برای \"منوی اصلی\" تعریف کنید"
+
+#: inc/functions/cleanup.php:17
+msgid "<strong>ERROR</strong>: Stop guessing!"
+msgstr "<strong>خطا</strong>: بیشتر از این شوخی نکنید!"
+
+#: inc/functions/functions.php:37
+msgid "Posted in"
+msgstr "نوشته شده در"
+
+#: inc/functions/functions.php:62
+msgid "Pingback:"
+msgstr "پینگ"
+
+#: inc/functions/functions.php:64 inc/functions/functions.php:105
+#: inc/functions/functions.php:167 woocommerce/myaccount/my-address.php:51
+msgid "Edit"
+msgstr "ویرایش"
+
+#: inc/functions/functions.php:98
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در ساعت  %2$s"
+
+#: inc/functions/functions.php:112
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در لیست بررسی قرار گرفته است"
+
+#: inc/functions/functions.php:117
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">میگوید:</span>"
+
+#: inc/functions/functions.php:129
+msgid "Reply"
+msgstr "پاسخ"
+
+#: inc/functions/functions.php:130
+msgid "Log in to Reply"
+msgstr "برای پاسخ دادن وارد شوید"
+
+#: inc/functions/functions.php:186
+msgid "Search &hellip;"
+msgstr "جستجو &hellip;"
+
+#: inc/functions/functions.php:189 woocommerce/product-searchform.php:29
+msgid "Search"
+msgstr "جستجو"
+
+#: inc/functions/functions.php:226
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "بیشتر بخوانید <span class=\"meta-nav\">&larr;</span>"
+
+#: inc/functions/functions.php:298
+#, php-format
+msgid "<span class=\"posted-on\" title=\"%1$s\">Posted on:  %2$s</span>"
+msgstr "<span class=\"posted-on\" title=\"%1$s\">تاریخ انتشار:  %2$s</span>"
+
+#: inc/functions/functions.php:314
+msgid "Tagged"
+msgstr "برچسب خورده"
+
+#: inc/functions/functions.php:402
+msgid "Category Archive View"
+msgstr "حالت نمایش دسته بندی"
+
+#: inc/functions/functions.php:406
+msgid "Category Archive view"
+msgstr "حالت نمایش دسته بندی"
+
+#: inc/functions/functions.php:407
+msgid "Show Thumbnail"
+msgstr "نمایش تصویر بند انگشتی"
+
+#: inc/functions/functions.php:408
+msgid "Show Excerpt"
+msgstr "نمایش چکیده"
+
+#: inc/functions/functions.php:409
+msgid "Show Meta"
+msgstr "نمایش اطلاعات متا"
+
+#: inc/functions/functions.php:414
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: inc/functions/functions.php:415
+msgid "Grid View"
+msgstr "نمایش جدولی"
+
+#: inc/functions/functions.php:416
+msgid "List View"
+msgstr "نمایش لیست گونه"
+
+#: inc/functions/functions.php:421 inc/functions/functions.php:427
+#: inc/functions/functions.php:433
+msgid "Yes"
+msgstr "بله"
+
+#: inc/functions/functions.php:422 inc/functions/functions.php:428
+#: inc/functions/functions.php:434
+msgid "No"
+msgstr "خیر"
+
+#: inc/sections/courses.php:14
+msgid "Latest Courses"
+msgstr "آخرین دوره ها"
+
+#: inc/sections/courses.php:31 inc/sections/courses.php:73
+msgid "View and register"
+msgstr "مشاهده"
+
+#: inc/sections/courses.php:38
+msgid "No courses added right now"
+msgstr "هیچ دوره ای در حال حاضر اضافه نشده است"
+
+#: inc/sections/courses.php:56 woocommerce/archive-product.php:63
+#: woocommerce/archive-product.php:79
+msgid "Most Popular"
+msgstr "پربازدیدترین ها"
+
+#: inc/sections/courses.php:80
+msgid "No Courses added right now"
+msgstr "هیچ دوره ای در حال حاضر اضافه نشده است"
+
+#: inc/sections/fixed-bg.php:6
+msgid "our members"
+msgstr "کاربران ما"
+
+#: inc/sections/latest-posts.php:12
+msgid "Latest News"
+msgstr "تازه ترین ها"
+
+#: inc/sections/latest-posts.php:20 inc/sections/latest-posts.php:39
+msgid "Add New post to be view in here"
+msgstr "لطفا یک نوشته (مطلب) در سایت اضافه کنید تا در اینجا اضافه شود."
+
+#: inc/sections/latest-posts.php:32
+msgid "subset centers"
+msgstr "مراکز زیر مجموعه"
+
+#: inc/sections/logos.php:4
+msgid "Our Partners"
+msgstr "سازمانهای همکار در پروژه‌های چترا"
+
+#: inc/sections/projects.php:5
+msgid "our projects"
+msgstr "پروژه های چترا"
+
+#: inc/sections/projects.php:31 inc/sections/projects.php:61
+#: inc/sections/projects.php:92
+msgid "view project"
+msgstr "دیدن پروژه"
+
+#: inc/sections/projects.php:100
+msgid "view all projects"
+msgstr "دیدن همه پروژه ها"
+
+#: inc/sections/storefronts.php:6
+msgid "value creation"
+msgstr "ارزش آفرینی چترا"
+
+#: inc/sections/storefronts.php:33 inc/sections/storefronts.php:91
+#: inc/sections/storefronts.php:152
+#, php-format
+msgid "view all product in %s "
+msgstr "نمایش تمامی محصولات در %s"
+
+#: inc/sections/storefronts.php:65 inc/sections/storefronts.php:124
+#: inc/sections/storefronts.php:185
+msgid ""
+"<span>there is no product added to the site yet. please add one to be viewed "
+"here</span>"
+msgstr ""
+"تا به حال هیچ محصولی در سایت اضافه نشده است. لطفا یک محصول به سایت اضافه کنید "
+"تا در اینجا به نمایش درآید"
+
+#: inc/sections/storefronts.php:118 inc/sections/storefronts.php:179
+msgid "add to cart"
+msgstr "افزودن به سبد خرید"
+
+#: inc/sections/testimonial.php:12
+msgid "what others says about us"
+msgstr "درباره ما چه میگویند"
+
+#: inc/woocommerce-setup.php:193
+#, php-format
+msgid "Items in your cart : %s Items"
+msgstr "تعداد موارد خریداری شده %s"
+
+#: inc/woocommerce-setup.php:219
+msgid "View your shopping cart"
+msgstr "دیدن سبد خرید"
+
+#: index.php:11
+msgid "Previous page"
+msgstr "صفحه قبل"
+
+#: index.php:12
+msgid "Next page"
+msgstr "صفحه بعد"
+
+#: index.php:13
+msgid "Page"
+msgstr "صفحه"
+
+#: single-course.php:33
+msgid ""
+"<button class=\"btn btn-default disabled\" disabled=\"disabled\" title=\"You "
+"have registered previously, be patient for calling you back\">Register</"
+"button>"
+msgstr ""
+"<button class=\"btn btn-default disabled\" disabled=\"disabled\" title=\"شما "
+"قبلا ثبت نام کرده اید، لطفا تا اطلاع بعدی صبور باشید.\">ثبت نام</button>"
+
+#: single-course.php:47
+#, php-format
+msgid "<h3 class=\"course-title\"><strong>Course Title:</strong> %s</h3>"
+msgstr "<h3 class=\"course-title\"><strong>نام دوره:</strong> %s</h3>"
+
+#: single-course.php:48
+#, php-format
+msgid "<div class=\"course_meta\"><strong>Audiences:</strong> %s </div>"
+msgstr "<div class=\"course_meta\"><strong>مخاطبین:</strong> %s </div>"
+
+#: single-course.php:49
+#, php-format
+msgid "<div class=\"course_meta\"><strong>Course Date:</strong> %s </div>"
+msgstr "<div class=\"course_meta\"><strong>تاریخ برگزاری:</strong> %s </div>"
+
+#: single-course.php:50
+#, php-format
+msgid "<div class=\"course_meta\"><strong>Course Time:</strong> %s </div>"
+msgstr "<div class=\"course_meta\"><strong>زمان برگزاری:</strong> %s </div>"
+
+#: single-course.php:51
+#, php-format
+msgid "<div class=\"course_meta\"><strong>Course Place:</strong> %s </div>"
+msgstr "<div class=\"course_meta\"><strong>مکان برگزاری:</strong> %s </div>"
+
+#: single-course.php:52
+#, php-format
+msgid "<div class=\"course_meta\"><strong>Course Coast:</strong> %s </div>"
+msgstr "<div class=\"course_meta\"><strong>هزینه دوره:</strong> %s </div>"
+
+#: single.php:32
+msgid ", "
+msgstr "+"
+
+#: woocommerce/archive-product.php:61 woocommerce/archive-product.php:67
+msgid "Latest products"
+msgstr "آخرین محصولات"
+
+#: woocommerce/archive-product.php:62 woocommerce/archive-product.php:73
+msgid "Top Sellers"
+msgstr "پرفروشها"
+
+#: woocommerce/auth/form-grant-access.php:25 woocommerce/auth/form-login.php:27
+#, php-format
+msgid "%s would like to connect to your store"
+msgstr "%s میخواهد به فروشگاه شما وصل شود"
+
+#: woocommerce/auth/form-grant-access.php:29
+#, php-format
+msgid "This will give \"%s\" <strong>%s</strong> access which will allow it to:"
+msgstr "این کار به \"%s\" <strong>%s</strong> اجازه دسترسی به این ها را می دهد:"
+
+#: woocommerce/auth/form-grant-access.php:39
+#, php-format
+msgid "Logged in as %s"
+msgstr "وارد شده با %s"
+
+#: woocommerce/auth/form-grant-access.php:39
+msgid "Logout"
+msgstr "خروج از سیستم"
+
+#: woocommerce/auth/form-grant-access.php:43
+msgid "Approve"
+msgstr "تایید"
+
+#: woocommerce/auth/form-grant-access.php:44
+msgid "Deny"
+msgstr "رد"
+
+#: woocommerce/auth/form-login.php:31
+#, php-format
+msgid ""
+"To connect to %1$s you need to be logged in. Log in to your store below, or "
+"%2$scancel and return to %1$s%3$s"
+msgstr ""
+"برای اتصال به %1$s شما نیاز به ورود دارید. ورود به فروشگاه شما از طریق زیر یا "
+"%2$s لغو و بازگشت به %1$s%3$s"
+
+#: woocommerce/auth/form-login.php:35 woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr "نام کاربری یا آدرس ایمیل"
+
+#: woocommerce/auth/form-login.php:39 woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-login.php:48
+#: woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr "رمز ورود"
+
+#: woocommerce/auth/header.php:29
+msgid "Application Authentication Request"
+msgstr "درخواست تأیید اعتبار برنامه"
+
+#: woocommerce/cart/cart-empty.php:28
+msgid "Your cart is currently empty."
+msgstr "سبد خرید شما در حال حاضر خالی است."
+
+#: woocommerce/cart/cart-empty.php:36
+msgid "Return To Shop"
+msgstr "بازگشت به فروشگاه"
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr "پس از مشخص نمودن آدرس پستی، هزینه‌ی ارسال محاسبه خواهد شد."
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid ""
+"There are no shipping methods available. Please double check your address, or "
+"contact us if you need any help."
+msgstr ""
+"روش های حمل و نقل در دسترس نیستند. خواهشمند است دوباره آدرس خود را بررسی کنید "
+"و یا چنانچه هر کمکی می خواهید با ما تماس بگیرید."
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr "جمع کل سبد خرید"
+
+#: woocommerce/cart/cart-totals.php:33 woocommerce/cart/cart-totals.php:34
+#: woocommerce/cart/mini-cart.php:73 woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr "مجموع"
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr "حمل و نقل "
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr "برآورد برای %s"
+
+#: woocommerce/cart/cart-totals.php:92 woocommerce/cart/cart-totals.php:93
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:120
+#: woocommerce/checkout/review-order.php:27
+#: woocommerce/checkout/review-order.php:106
+#: woocommerce/myaccount/my-orders.php:16 woocommerce/order/order-details.php:33
+msgid "Total"
+msgstr "جمع کل"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:79
+#: woocommerce/checkout/form-pay.php:29 woocommerce/checkout/review-order.php:26
+#: woocommerce/emails/email-order-details.php:34
+#: woocommerce/order/order-details.php:32
+msgid "Product"
+msgstr "محصول"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:97
+#: woocommerce/emails/email-order-details.php:36
+msgid "Price"
+msgstr "قیمت"
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:103
+#: woocommerce/emails/email-order-details.php:35
+msgid "Quantity"
+msgstr "تعداد"
+
+#: woocommerce/cart/cart.php:60 woocommerce/cart/mini-cart.php:45
+msgid "Remove this item"
+msgstr "حذف این آیتم"
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr "موجود در حالت پیش فروش"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr "کوپن:"
+
+#: woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr "کد کوپن"
+
+#: woocommerce/cart/cart.php:138 woocommerce/checkout/form-coupon.php:40
+msgid "Apply Coupon"
+msgstr "اعمال کوپن"
+
+#: woocommerce/cart/cart.php:144
+msgid "Update Cart"
+msgstr "بروزرسانی سبد خرید"
+
+#: woocommerce/cart/cross-sells.php:47
+msgid "You may be interested in&hellip;"
+msgstr "ممکن است به این محصول نیز علاقه مند باشید"
+
+#: woocommerce/cart/mini-cart.php:67
+msgid "No products in the cart."
+msgstr "سبد خرید شما خالی است."
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "View Cart"
+msgstr "نمایش سبد خرید"
+
+#: woocommerce/cart/mini-cart.php:80
+msgid "Checkout"
+msgstr "تسویه حساب"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr "اتمام خرید - ادامه"
+
+#: woocommerce/cart/shipping-calculator.php:33
+msgid "Calculate Shipping"
+msgstr "محاسبه هزینه حمل و نقل"
+
+#: woocommerce/cart/shipping-calculator.php:39
+msgid "Select a country&hellip;"
+msgstr "کشور مورد نظر را انتخاب کنید"
+
+#: woocommerce/cart/shipping-calculator.php:56
+#: woocommerce/cart/shipping-calculator.php:62
+#: woocommerce/cart/shipping-calculator.php:74
+msgid "State / county"
+msgstr "استان / کشور"
+
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "Select a state&hellip;"
+msgstr "استان مورد نظر را انتخاب کنید"
+
+#: woocommerce/cart/shipping-calculator.php:83
+msgid "City"
+msgstr "شهر"
+
+#: woocommerce/cart/shipping-calculator.php:91
+msgid "Postcode / ZIP"
+msgstr "کدپستی"
+
+#: woocommerce/cart/shipping-calculator.php:96
+msgid "Update Totals"
+msgstr "به روز رسانی جمع کل"
+
+#: woocommerce/checkout/cart-errors.php:27
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+"مشکلاتی در اقلام سبد خرید شما وجود دارد (که در بالا آمده اند). خواهشمندیمً به "
+"برگه سبد خرید بازگشته و پیش از تسویه حساب این مشکلات را رفع کنید."
+
+#: woocommerce/checkout/cart-errors.php:31
+msgid "Return To Cart"
+msgstr "بازگشت به سبدخرید"
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr "اطلاعات شما"
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr "جزئیات پرداخت"
+
+#: woocommerce/checkout/form-billing.php:52
+msgid "Create an account?"
+msgstr "می خواهید یک حساب کاربری ایجاد کنید ؟"
+
+#: woocommerce/checkout/form-billing.php:63
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+"بوسیله وارد کردن اطلاعات در اینجا یک حساب کاربری ایجاد کنید. اگر قبلا عضو شده "
+"ایید از بالای صفحه میتوانید وارید شوید."
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr "برای تسویه حساب باید وارد شوید."
+
+#: woocommerce/checkout/form-checkout.php:55
+msgid "Your order"
+msgstr "سفارش شما"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr "کوپن تخفیف دارید؟"
+
+#: woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr "برای نوشتن کد اینجا کلیک کنید"
+
+#: woocommerce/checkout/form-coupon.php:36
+msgid "Coupon Code"
+msgstr "کد کوپن"
+
+#: woocommerce/checkout/form-login.php:27
+msgid "Returning customer?"
+msgstr "حساب کاربری از قبل دارید؟"
+
+#: woocommerce/checkout/form-login.php:28
+msgid "Click here to login"
+msgstr "برای ورود اینجا را کلیک کنید"
+
+#: woocommerce/checkout/form-login.php:35
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"اگر از فروشگاه ما قبلا خریدی داشته اید مشخصات ورود خود را وارد نمائید در غیر "
+"این صورت به تکمیل فرم تسویه حساب بپردازید"
+
+#: woocommerce/checkout/form-pay.php:30 woocommerce/global/quantity-input.php:24
+msgid "Qty"
+msgstr "تعداد"
+
+#: woocommerce/checkout/form-pay.php:31
+msgid "Totals"
+msgstr "جمع کل "
+
+#: woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"متاسفانه به نظر می رسد در حال حاضر هیچ روش پرداختی برای مکانی که انتخاب کرده "
+"اید موجود نمی باشد . در صورتیکه نیاز به کمک داشتید با ما تماس بگیرید"
+
+#: woocommerce/checkout/form-shipping.php:28
+msgid "Ship to a different address?"
+msgstr "سفارشات به همین آدرس ارسال شود."
+
+#: woocommerce/checkout/form-shipping.php:54
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr "اطلاعات بیشتر"
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"متاسفانه به نظر می رسد در حال حاضر هیچ روش پرداختی برای استان شما موجود نمی "
+"باشد. در صورتیکه نیاز به کمک دارید با ما تماس بگیرید."
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"خواهشمندیم مشخصات خود را در بالا وارد کنید تا روش های موجود برای پرداخت را "
+"نمایش کنید"
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+"به دلیل اینکه براوزر شما جاوا اسکریپت را ساپورت نمی کند ، یا غیر فعال است ، "
+"خواهشمندیم قبل از اینکه سفارش خود را بگذارید دکمه به روز رسانی جمع کل را کلیک "
+"کنید. در صورتیکه این کار را نکنید ممکن است مبلغ قابل پرداخت شما بیش از چیزی "
+"که در بالا مشخص شده است باشد"
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr "به روز رسانی جمع کل"
+
+#: woocommerce/checkout/terms.php:17
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"من  <a href=\"%s\" target=\"_blank\">شرایط و مقررات</a> را خواندم و مورد "
+"پذیرشم می باشد"
+
+#: woocommerce/checkout/thankyou.php:27
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/merchant "
+"has declined your transaction. Please attempt your purchase again."
+msgstr ""
+"متاسفانه پردازش سفارش شما ممکن نیست. درگاه پرداخت (بانک) انتخاب شده، این "
+"پرداخت را نپذیرفت. لطفا دوباره خرید خود را تکرار کنید."
+
+#: woocommerce/checkout/thankyou.php:30 woocommerce/myaccount/my-orders.php:72
+#: woocommerce/myaccount/orders.php:68
+msgid "Pay"
+msgstr "پرداخت"
+
+#: woocommerce/checkout/thankyou.php:32
+msgid "My Account"
+msgstr "حساب کاربری من"
+
+#: woocommerce/checkout/thankyou.php:38 woocommerce/checkout/thankyou.php:69
+msgid "Thank you. Your order has been received."
+msgstr "متشکریم ، سفارش شما دریافت شد."
+
+#: woocommerce/checkout/thankyou.php:42
+msgid "Order Number:"
+msgstr "شماره سفارش:"
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Date:"
+msgstr "تاریخ :"
+
+#: woocommerce/checkout/thankyou.php:50
+msgid "Total:"
+msgstr "قیمت نهایی:"
+
+#: woocommerce/checkout/thankyou.php:55
+msgid "Payment Method:"
+msgstr "روش پرداخت : "
+
+#: woocommerce/emails/admin-cancelled-order.php:28
+#: woocommerce/emails/plain/admin-cancelled-order.php:25
+#, php-format
+msgid "The order #%d from %s has been cancelled. The order was as follows:"
+msgstr "سفارش %d از %s لغو شد.  سفارش به شرح زیر است:"
+
+#: woocommerce/emails/admin-failed-order.php:28
+#: woocommerce/emails/plain/admin-failed-order.php:25
+#, php-format
+msgid "Payment for order #%d from %s has failed. The order was as follows:"
+msgstr ""
+"پرداخت برای سفارش #%d از %s موفقیت آمیز نبود. برای دنبال کردن سفارش می توانید:"
+
+#: woocommerce/emails/admin-new-order.php:28
+#, php-format
+msgid "You have received an order from %s. The order is as follows:"
+msgstr "شما یک سفارش  از %s دریافت کرده اید. سفارش به شرح زیر است:"
+
+#: woocommerce/emails/customer-completed-order.php:28
+#: woocommerce/emails/plain/customer-completed-order.php:25
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+"سلام. سفارش اخیر شما در %s در وضعیت تکمیل شده ( ارسال شده ) قرار گرفته است. "
+"اطلاعات سفارش شما در زیر فهرست شده است."
+
+#: woocommerce/emails/customer-invoice.php:29
+#: woocommerce/emails/plain/customer-invoice.php:26
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use the "
+"following link: %s"
+msgstr ""
+"سفارشی برای شما در شماره %s ساخته شده است. برای پرداخت این سفارش به لینک "
+"مقابل مراجعه کنید: %s"
+
+#: woocommerce/emails/customer-invoice.php:29
+msgid "pay"
+msgstr "پرداخت"
+
+#: woocommerce/emails/customer-new-account.php:27
+#: woocommerce/emails/plain/customer-new-account.php:25
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>"
+msgstr ""
+"با تشکر برای ایجاد یک حساب کاربری در%s. نام کاربری شما <strong>%s</strong> "
+"میباشد."
+
+#: woocommerce/emails/customer-new-account.php:31
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr "گذرواژه شما به صورت خودکار ساخته شده است: <strong>%s</strong>"
+
+#: woocommerce/emails/customer-new-account.php:35
+#: woocommerce/emails/plain/customer-new-account.php:30
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your password "
+"here: %s."
+msgstr "شما از این ناحیه می توانید به حساب کاربری خود دسترسی یابید: %s"
+
+#: woocommerce/emails/customer-note.php:28
+#: woocommerce/emails/plain/customer-note.php:25
+msgid "Hello, a note has just been added to your order:"
+msgstr "سلام، یک یادداشت به سفارش شما اضافه شده است:"
+
+#: woocommerce/emails/customer-note.php:32
+#: woocommerce/emails/plain/customer-note.php:33
+msgid "For your reference, your order details are shown below."
+msgstr "جزییات سفارش به شرح زیر می باشد."
+
+#: woocommerce/emails/customer-on-hold-order.php:28
+#: woocommerce/emails/plain/customer-on-hold-order.php:25
+msgid ""
+"Your order is on-hold until we confirm payment has been received. Your order "
+"details are shown below for your reference:"
+msgstr ""
+"سفارش شما تا تائید پرداختتان نگه داشته شده است. جزئیات سفارش را می توانید در "
+"زیر ببینید:"
+
+#: woocommerce/emails/customer-processing-order.php:28
+#: woocommerce/emails/plain/customer-processing-order.php:25
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+"سفارش شما دریافت شده و در حال پردازش است. اطلاعات سفارش شما در زیر نشان داده "
+"شده است: "
+
+#: woocommerce/emails/customer-refunded-order.php:30
+#, php-format
+msgid "Hi there. Your order on %s has been partially refunded."
+msgstr "سلام. سفارش شما در %s تا حدی برگشت خورده است."
+
+#: woocommerce/emails/customer-refunded-order.php:33
+#, php-format
+msgid "Hi there. Your order on %s has been refunded."
+msgstr "سلام. سفارش شما در %s برگشت خورده است."
+
+#: woocommerce/emails/customer-reset-password.php:27
+#: woocommerce/emails/plain/customer-reset-password.php:25
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "کسی درخواست ریست گذرواژه حساب کاربری پیرو را داده است:"
+
+#: woocommerce/emails/customer-reset-password.php:28
+#: woocommerce/emails/plain/customer-reset-password.php:27
+#, php-format
+msgid "Username: %s"
+msgstr "نام کاربری: %s"
+
+#: woocommerce/emails/customer-reset-password.php:29
+#: woocommerce/emails/plain/customer-reset-password.php:28
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"اگر این اشتباه است، فقط این ایمیل را نادیده بگیرید و هیچ اتفاقی نمی افتد"
+
+#: woocommerce/emails/customer-reset-password.php:30
+#: woocommerce/emails/plain/customer-reset-password.php:29
+msgid "To reset your password, visit the following address:"
+msgstr "برای ریست کردن گذرواژه خود، به آدرس زیر بروید:"
+
+#: woocommerce/emails/customer-reset-password.php:33
+msgid "Click here to reset your password"
+msgstr "برای ریست کردن گذرواژه خود اینجا را کلیک کنید"
+
+#: woocommerce/emails/email-addresses.php:26
+#: woocommerce/emails/plain/email-addresses.php:23
+msgid "Billing address"
+msgstr "آدرس صورتحساب"
+
+#: woocommerce/emails/email-addresses.php:32
+#: woocommerce/emails/plain/email-addresses.php:27
+msgid "Shipping address"
+msgstr "آدرس برای ارسال بار : "
+
+#: woocommerce/emails/email-customer-details.php:26
+#: woocommerce/emails/plain/email-customer-details.php:25
+msgid "Customer details"
+msgstr "مشخصات مشتری : "
+
+#: woocommerce/emails/email-order-details.php:26
+#: woocommerce/emails/email-order-details.php:28
+#, php-format
+msgid "Order #%s"
+msgstr "سفارش #%s"
+
+#: woocommerce/emails/plain/admin-new-order.php:25
+#, php-format
+msgid "You have received an order from %s."
+msgstr "شما یک سفارش  از %s دریافت کرده اید."
+
+#: woocommerce/emails/plain/customer-new-account.php:28
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr "گذرواژه شما <strong>%s</strong>"
+
+#: woocommerce/emails/plain/customer-refunded-order.php:25
+#, php-format
+msgid ""
+"Hi there. Your order on %s has been refunded. Your order details are shown "
+"below for your reference:"
+msgstr ""
+"خوش آمدید . سفارش شما در %s برگشت خورده است. جزئیات سفارش شما در زیر ارجاع "
+"داده می شود:"
+
+#: woocommerce/emails/plain/email-order-details.php:25
+#, php-format
+msgid "Order number: %s"
+msgstr "شماره سفارش: %s"
+
+#: woocommerce/emails/plain/email-order-details.php:26
+msgid "jS F Y"
+msgstr "j F Y"
+
+#: woocommerce/emails/plain/email-order-details.php:43
+#, php-format
+msgid "View order: %s"
+msgstr "نمایش سفارش: %s"
+
+#: woocommerce/emails/plain/email-order-items.php:44
+#, php-format
+msgid "Quantity: %s"
+msgstr "تعداد %s"
+
+#: woocommerce/emails/plain/email-order-items.php:47
+#, php-format
+msgid "Cost: %s"
+msgstr "هزینه: %s"
+
+#: woocommerce/emails/plain/email-order-items.php:58
+#, php-format
+msgid "Download %d"
+msgstr "دانلود %d"
+
+#: woocommerce/emails/plain/email-order-items.php:60
+#: woocommerce/myaccount/downloads.php:75
+msgid "Download"
+msgstr "دانلود"
+
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:31
+msgid "Username or email"
+msgstr "کلمه کاربری یا ایمیل"
+
+#: woocommerce/global/form-login.php:51 woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+#: woocommerce/global/form-login.php:55 woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr "گذرواژه خود را فراموش کرده اید؟"
+
+#: woocommerce/loop/no-products-found.php:24
+msgid "No products were found matching your selection."
+msgstr "هیچ محصولی یافت نشد."
+
+#: woocommerce/loop/result-count.php:41
+msgid "Showing the single result"
+msgstr "در تمامی صفحات داخلی بالاتر از متن قرار میگیرد"
+
+#: woocommerce/loop/sale-flash.php:28
+#: woocommerce/single-product/sale-flash.php:28
+msgid "Sale!"
+msgstr "حراج!"
+
+#: woocommerce/myaccount/downloads.php:59
+msgid "&infin;"
+msgstr "&infin;"
+
+#: woocommerce/myaccount/downloads.php:67
+msgid "Never"
+msgstr "هرگز"
+
+#: woocommerce/myaccount/downloads.php:98 woocommerce/myaccount/orders.php:119
+msgid "Go Shop"
+msgstr "رفتن به فروشگاه"
+
+#: woocommerce/myaccount/downloads.php:100
+msgid "No downloads available yet."
+msgstr "هیچ دانلودی در دسترس نیست."
+
+#: woocommerce/myaccount/form-add-payment-method.php:53
+#: woocommerce/myaccount/payment-methods.php:78
+msgid "Add Payment Method"
+msgstr "افزودن روش پرداخت"
+
+#: woocommerce/myaccount/form-add-payment-method.php:59
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+"متاسفانه به نظر می رسد در حال حاضر هیچ روش پرداختی برای مکانی که انتخاب کرده "
+"اید موجود نمی باشد . در صورتیکه نیاز به کمک داشتید با ما تماس بگیرید"
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr "نام"
+
+#: woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr "نام خانوادگی"
+
+#: woocommerce/myaccount/form-edit-account.php:40
+#: woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr "پست الکترونیک"
+
+#: woocommerce/myaccount/form-edit-account.php:45
+msgid "Password Change"
+msgstr "تغییر گذرواژه"
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr "گذرواژه پیشین (در صورتی که قصد تغییر ندارید خالی بگذارید)"
+
+#: woocommerce/myaccount/form-edit-account.php:52
+msgid "New Password (leave blank to leave unchanged)"
+msgstr "گذرواژه جدید (در صورتی که قصد تغییر ندارید خالی بگذارید)"
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm New Password"
+msgstr "تکرار رمز تازه"
+
+#: woocommerce/myaccount/form-edit-account.php:66
+msgid "Save changes"
+msgstr "ذخیره تغییرات"
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+#: woocommerce/order/order-details-customer.php:58
+msgid "Billing Address"
+msgstr "آدرس صورتحساب"
+
+#: woocommerce/myaccount/form-edit-address.php:23
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/order/order-details-customer.php:69
+msgid "Shipping Address"
+msgstr "آدرس حمل و نقل"
+
+#: woocommerce/myaccount/form-edit-address.php:46
+msgid "Save Address"
+msgstr "ذخیره آدرس"
+
+#: woocommerce/myaccount/form-login.php:75
+#: woocommerce/myaccount/form-login.php:112
+msgid "Register"
+msgstr "ثبت نام"
+
+#: woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr "نام کاربری"
+
+#: woocommerce/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr "ضد اسپم"
+
+#: woocommerce/myaccount/form-lost-password.php:27
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"گذرواژه خود را فراموش کرده اید؟ نام کاربری یا ایمیل خود را وارد کنید. یک لینک "
+"برای ساختن رمز جدید در ایمیل خود دریافت خواهید کرد"
+
+#: woocommerce/myaccount/form-lost-password.php:41
+msgid "Reset Password"
+msgstr "بازگردانی گذرواژه"
+
+#: woocommerce/myaccount/form-reset-password.php:27
+msgid "Enter a new password below."
+msgstr "گذرواژه جدید را بنویسید"
+
+#: woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr "گذرواژه جدید"
+
+#: woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr "تکرار گذرواژه جدید"
+
+#: woocommerce/myaccount/form-reset-password.php:47
+msgid "Save"
+msgstr "ذخیره"
+
+#: woocommerce/myaccount/lost-password-confirmation.php:24
+msgid "Password reset email has been sent."
+msgstr "ایمیل تنظیم مجدد رمز عبور ارسال شد."
+
+#: woocommerce/myaccount/lost-password-confirmation.php:27
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+"یک ایمیل برای تنظیم مجدد رمز عبور به آدرس ایمیل وارد شده شما در فروشگاه ارسال "
+"شد. شما میتوانید این ایمیل را تا دقایقی دیگر مشاهده کنید. لطفا تا درخواست رمز "
+"جدید بعدی ، حداقل 10 دقیقه منتظر ایمیل باشید."
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr "آدرس‌های زیر برای ارسال فاکتور و صورت حساب استفاده خواهند شد."
+
+#: woocommerce/myaccount/my-address.php:70
+msgid "You have not set up this type of address yet."
+msgstr "شما هنوز آدرسی ثبت نکرده اید."
+
+#: woocommerce/myaccount/my-downloads.php:30
+msgid "Available Downloads"
+msgstr "دانلودهای در دسترس"
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr "سفارش"
+
+#: woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr "تاریخ"
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr "وضعیت"
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr "آخرین سفارشات "
+
+#: woocommerce/myaccount/my-orders.php:76 woocommerce/myaccount/orders.php:72
+msgid "View"
+msgstr "نمایش "
+
+#: woocommerce/myaccount/my-orders.php:80 woocommerce/myaccount/orders.php:76
+msgid "Cancel"
+msgstr "انصراف"
+
+#: woocommerce/myaccount/orders.php:107
+msgid "Previous"
+msgstr "قبلی"
+
+#: woocommerce/myaccount/orders.php:111
+msgid "Next"
+msgstr "بعدی"
+
+#: woocommerce/myaccount/orders.php:121
+msgid "No order has been made yet."
+msgstr "هیچ سفارشی تا کنون ساخته نشده است."
+
+#: woocommerce/myaccount/payment-methods.php:51
+#, php-format
+msgid "%s ending in %s"
+msgstr "%s پایان در %s"
+
+#: woocommerce/myaccount/payment-methods.php:72
+msgid "No saved methods found."
+msgstr "هیچ روش ذخیره شده ای یافت نشد."
+
+#: woocommerce/myaccount/view-order.php:28 woocommerce/order/tracking.php:26
+#, php-format
+msgid "Order #%1$s was placed on %2$s and is currently %3$s."
+msgstr "سفارش #%1$s در تاریخ %2$s ثبت شده و هم اکنون %3$s است."
+
+#: woocommerce/myaccount/view-order.php:36 woocommerce/order/tracking.php:34
+msgid "Order Updates"
+msgstr "به روز رسانی های سفارش"
+
+#: woocommerce/myaccount/view-order.php:42 woocommerce/order/tracking.php:40
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr "l jS \\o\\f F Y, h:ia"
+
+#: woocommerce/order/form-tracking.php:29
+msgid ""
+"To track your order please enter your Order ID in the box below and press the "
+"\"Track\" button. This was given to you on your receipt and in the "
+"confirmation email you should have received."
+msgstr ""
+"برای رهگیری سفارشتان شماره سفارش و ایمیلی که درهنگام ثبت سفارش وارد کردید را "
+"در این قسمت وارد و کلید رهگیری را فشار دهید."
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Order ID"
+msgstr "شماره سفارش"
+
+#: woocommerce/order/form-tracking.php:31
+msgid "Found in your order confirmation email."
+msgstr "شماره سفارش در ایمیل ارسال شده به شما موجود است."
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Billing Email"
+msgstr "ایمیل صورتحساب"
+
+#: woocommerce/order/form-tracking.php:32
+msgid "Email you used during checkout."
+msgstr "ایمیلی که در هنگام ثبت سفارش وارد کردید"
+
+#: woocommerce/order/form-tracking.php:35
+msgid "Track"
+msgstr "رهگیری"
+
+#: woocommerce/order/order-again.php:25
+msgid "Order Again"
+msgstr "سفارش دوباره"
+
+#: woocommerce/order/order-details-customer.php:23
+msgid "Customer Details"
+msgstr "مشخصات خریدار"
+
+#: woocommerce/order/order-details-customer.php:28
+msgid "Note:"
+msgstr "یادداشت:"
+
+#: woocommerce/order/order-details-customer.php:35
+msgid "Email:"
+msgstr "پست الکترونیک:"
+
+#: woocommerce/order/order-details-customer.php:42
+msgid "Telephone:"
+msgstr "تلفن :"
+
+#: woocommerce/order/order-details-customer.php:61
+#: woocommerce/order/order-details-customer.php:72
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr "نامعلوم"
+
+#: woocommerce/order/order-details.php:28
+msgid "Order Details"
+msgstr "مشخصات سفارش"
+
+#: woocommerce/product-searchform.php:27 woocommerce/product-searchform.php:28
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#: woocommerce/product-searchform.php:28
+msgid "Search Products&hellip;"
+msgstr "جستجوی محصولات&hellip;"
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr "بررسی"
+
+#: woocommerce/single-product-reviews.php:56
+msgid "There are no reviews yet."
+msgstr "هیچ بررسی وجود ندارد."
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Add a review"
+msgstr "یک بررسی اضافه کنید."
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "اولین فرد بررسی کننده &ldquo;%s&rdquo; شما باشید."
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "یک پاسخ به %s ارسال کنید."
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Submit"
+msgstr "ارسال"
+
+#: woocommerce/single-product-reviews.php:92
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+"شما باید در سایت<a href=\"%s\">وارد</a>شده باشید تا بتوانید یک بررسی اضافه "
+"کنید."
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Your Rating"
+msgstr "امتیاز شما"
+
+#: woocommerce/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr "امتیاز &hellip"
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Perfect"
+msgstr "عالی"
+
+#: woocommerce/single-product-reviews.php:99
+msgid "Good"
+msgstr "خوب"
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Average"
+msgstr "متوسط"
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr "بد نیست"
+
+#: woocommerce/single-product-reviews.php:102
+msgid "Very Poor"
+msgstr "بد!"
+
+#: woocommerce/single-product-reviews.php:121
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"فقط مشتریانی که در سایت عضو شده و این محصول را خریداری کرده اند میتوانند "
+"بررسی خود را ارسال کنند."
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr "در حال حاضر این محصول در انبار موجود نیست و در دسترس نمی باشد."
+
+#: woocommerce/single-product/add-to-cart/variable.php:43
+msgid "Clear"
+msgstr "پاکسازی"
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"با عرض پوزش، این محصول در دسترس نیست. خواهشمندیمً ترکیب دیگری را انتخاب کنید."
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr "شناسه محصول(SKU):"
+
+#: woocommerce/single-product/product-attributes.php:38
+msgid "Weight"
+msgstr "وزن"
+
+#: woocommerce/single-product/product-attributes.php:45
+msgid "Dimensions"
+msgstr "ابعاد"
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "امتیاز  %s از 5"
+
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr "خارج از %s5%s"
+
+#: woocommerce/single-product/related.php:51
+msgid "Related Products"
+msgstr "محصولات مرتبط"
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your comment is awaiting approval"
+msgstr "دیدگاه شما پس از تایید نمایش داده می شود"
+
+#: woocommerce/single-product/review-rating.php:29
+msgid "out of 5"
+msgstr "از 5"
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr "توضیحات محصول"
+
+#: woocommerce/single-product/up-sells.php:48
+msgid "You may also like&hellip;"
+msgstr "شما شاید این را هم دوست داشته باشید"
+
+#~ msgid "<div class=\"\"><strong>Audiences:</strong> %s </div>"
+#~ msgstr "<div class=\"\"><strong>مخاطبین:</strong> %s </div>"
+
+#~ msgid "<div class=\"\"><strong>Course Date:</strong> %s </div>"
+#~ msgstr "<div class=\"\"><strong>تاریخ برگزاری:</strong> %s </div>"
+
+#~ msgid "<div class=\"\"><strong>Course Time:</strong> %s </div>"
+#~ msgstr "<div class=\"\"><strong>زمان برگزاری:</strong> %s </div>"
+
+#~ msgid "<div class=\"\"><strong>Course Place:</strong> %s </div>"
+#~ msgstr "<div class=\"\"><strong>مکان برگزاری:</strong> %s </div>"
+
+#~ msgid "<div class=\"\"><strong>Course Coast:</strong> %s </div>"
+#~ msgstr "<div class=\"\"><strong>هزینه دوره:</strong> %s </div>"
+
+#~ msgid "Website"
+#~ msgstr "وبسایت"
+
+#~ msgid ""
+#~ "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+#~ "%2$s</span>"
+#~ msgstr ""
+#~ "<span class=\"posted-on\">نوشته شده در%1$s</span><span class=\"byline\"> "
+#~ "توسط %2$s</span>"
+
+#~ msgid "View all posts by %s"
+#~ msgstr "نمایش تمامی نوشته ها توسط %s"
+
+#~ msgid "You have registered previously, be patient for calling you back"
+#~ msgstr "شما قبلا ثبت نام کرده اید. لطفا صبور باشید تا به شما اطلاع داده شود."
+
+#~ msgid "Default"
+#~ msgstr "پیشفرض"
+
+#~ msgid "Tags"
+#~ msgstr "برچسبها"
+
+#~ msgid "Your Review"
+#~ msgstr "بررسی شما"
+
+#~ msgid ""
+#~ "there is no product added to the site yet. please add one to be viewed here"
+#~ msgstr ""
+#~ "هیچ محصولی تا به حال به سایت اضافه نشده است. لطفا یک محصول را اضافه کنید "
+#~ "تا در اینجا نمایش داده شود"
+
+#~ msgid "Continue reading %s"
+#~ msgstr "ادامه مطلب %s"
+
+#~ msgid "Pages:"
+#~ msgstr "صفحات"
+
+#~ msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+#~ msgstr "%1$s نظر برای نوشته &rdquo; %2$s &ldquo;"
+
+#~ msgid "One comment on &ldquo;%2$s&rdquo;"
+#~ msgstr "یک نظر برای &ldquo;%2$s&rdquo;"
+
+#~ msgid "Nothing Found"
+#~ msgstr "چیزی یافت نشد"
+
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr ""
+#~ "برای ارسال اولی پست خود آماده اید؟ از <a href=\"%1$s\">اینجا</a> شروع کنید."
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "متاسفایم، اما چیزی که شما در جستجوی آن بودید یافت نشد. لطفا با کلمات دیگری "
+#~ "تلاش کنید."
+
+#~ msgid ""
+#~ "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+#~ "searching can help."
+#~ msgstr ""
+#~ "به نظر میرسد چیزی که شما به دنبالش هستید را نمیتوانیم بیابیم! شاید جستجو "
+#~ "به شما کمک کند."
+
+#~ msgid "donate"
+#~ msgstr "کمک رسانی"
+
+#~ msgid "Please go to admin panel add add a new menu as \"Primary\" location"
+#~ msgstr "لطفه به بخش مدیریت رفته و "
+
+#~ msgid "Time: "
+#~ msgstr "مدت زمان:"
+
+#~ msgid "Starting Date: "
+#~ msgstr "تاریخ شروع"
+
+#~ msgid "Teacher: "
+#~ msgstr "نام استاد:"
+
+#~ msgid "Place: "
+#~ msgstr "مکان :"
+
+#~ msgid "Course Coast :"
+#~ msgstr "هزینه دوره:"
+
+#~ msgid "Expiration Date :"
+#~ msgstr "تاریخ اتمام ثبت نام:"
+
+#~ msgid "More Information"
+#~ msgstr "اطلاعات بیشتر"
+
+#~ msgid "none"
+#~ msgstr "هیچ"
+
+#~ msgid "one"
+#~ msgstr "یک "
+
+#~ msgid "%1$s Responses to %2$s"
+#~ msgstr "%1$s نظر برای %2$s"
+
+#~ msgid "Search..."
+#~ msgstr "جستجو..."
+
+#~ msgid "&copy; %1$s All-rights reserved for %2$s"
+#~ msgstr "&copy; %1$s تمامی حقوق مادی و معنوی این وبسایت برای %2$s محفوظ است"
+
+#~ msgid "Theme Information 1"
+#~ msgstr "اطلاعات قالب 1"
+
+#~ msgid "<p>This is the tab content, HTML is allowed.</p>"
+#~ msgstr "<p>این محتوای تب می باشد و اجازه نوشتن HTML را دارد</p>"
+
+#~ msgid "Theme Information 2"
+#~ msgstr "اطلاعات قالب 2"
+
+#~ msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+#~ msgstr "<p>این محتوای سایدبار می باشد و اجازه نوشتن HTML را دارد</p>"
+
+#~ msgid "General Options"
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "General Options."
+#~ msgstr "تنظیمات عمومی"
+
+#~ msgid "Contact Informations"
+#~ msgstr "اطلاعات تماس"
+
+#~ msgid "Contact informations to be displayed in the footer of website "
+#~ msgstr "اطلاعات تماس در پایین سایت وب سایت نمایش داده می شود"
+
+#~ msgid "Facebook Link"
+#~ msgstr "فیسبوک"
+
+#~ msgid "facebook url with \"Https://\""
+#~ msgstr "آدرس فیسبوک (https://)"
+
+#~ msgid "Ex: https://facebook.com/momtazhost/"
+#~ msgstr "نمونه : https://facebook.com/momtazhost/"
+
+#~ msgid "Twitter Link"
+#~ msgstr "تویتر"
+
+#~ msgid "twitter url with \"Https://\""
+#~ msgstr "آدرس توئیتر (https://)"
+
+#~ msgid "Ex: https://twitter.com/moortak/"
+#~ msgstr "نمونه : https://twitter.com/momtazhost/"
+
+#~ msgid "Google+ profile"
+#~ msgstr "گوگل پلاس"
+
+#~ msgid "Google+ Profile URL with \"Https://\""
+#~ msgstr "آدرس گوگل پلاس(https://)"
+
+#~ msgid "Ex: https://plus.google.com/momtazhost/ "
+#~ msgstr "نمونه : https://plus.google.com/u/1/114355988769865054867/"
+
+#~ msgid "Linked.in profile"
+#~ msgstr "لینکد این"
+
+#~ msgid "Linked.in Profile URL with \"Https://\""
+#~ msgstr "آدرس لینکد این(https://)"
+
+#~ msgid "Ex: https://linked.in/company/momtazhost/ "
+#~ msgstr "نمونه: https://linked.in/company/momtazhost/ "
+
+#~ msgid "Telegram"
+#~ msgstr "تلگرام"
+
+#~ msgid "Telegram url with \"Https://\""
+#~ msgstr "آدرس تلگرام  (https://)"
+
+#~ msgid "Ex: http://telegram.me/ali.qorbani.8718/"
+#~ msgstr "نمونه: https://telegram.me/ali.qorbani.8718/ "
+
+#~ msgid "Skype Name"
+#~ msgstr "اسکایپ"
+
+#~ msgid "Insert Your Skype Name"
+#~ msgstr "نام اسکایپ خود را در اینجا درج کنید"
+
+#~ msgid "Ex: ali.qorbani.8718"
+#~ msgstr "نمونه : ali.qorbani.8718"
+
+#~ msgid "Default layout"
+#~ msgstr "حالت نمایش اصلی"
+
+#~ msgid ""
+#~ "select default layout for your website. for now we have just one style, "
+#~ "but don't worry about it we'll update as soon as possible. "
+#~ msgstr ""
+#~ "حالت نمایش اصلی وبسایت را انتخاب کنید! در حال حاضر ما فقط یک حالت "
+#~ "(رنگبندی) را داریم اما در آینده نزدیک این قابلیت فعال خواهد شد"
+
+#~ msgid "Layout Selection"
+#~ msgstr "انتخاب حالت نمایش"
+
+#~ msgid "select your default website layout"
+#~ msgstr "حالت نمایش اصلی تان را انتخاب کنید"
+
+#~ msgid "Single"
+#~ msgstr "تکی"
+
+#~ msgid "."
+#~ msgstr "."
+
+#~ msgid "Author Box"
+#~ msgstr "بیوگرافی نویسنده"
+
+#~ msgid "show Author box at the bottom of single post?"
+#~ msgstr "میخواهید بیوگرافی نویسنده در نوشته تکی نمایش داده شود؟"
+
+#~ msgid "Icon"
+#~ msgstr "آیکن"
+
+#~ msgid "Course Options"
+#~ msgstr "گزینه های کورس"
+
+#~ msgid "Course Coast <small class=\"desc\">In AFs Currency</small>"
+#~ msgstr "هزینه دوره (به افغانی)"
+
+#~ msgid "course time"
+#~ msgstr "مدت زمان"
+
+#~ msgid "Course Startind Date"
+#~ msgstr "تاریخ شروع برگزاری"
+
+#~ msgid "Course Expire date"
+#~ msgstr "تاریخ اتمام ثبت نام:"
+
+#~ msgid "Course Place"
+#~ msgstr "مکان برگزاری دوره"
+
+#~ msgid "Video Url(include <code>http://</code> or <code>https://</code>)"
+#~ msgstr "آدرس ویدئو: (همراه <code>http://</code> یا <code>https://</code>)"
+
+#~ msgid "Teacher Name"
+#~ msgstr "نام استاد"
+
+#~ msgid "Courses"
+#~ msgstr "کورسها"
+
+#~ msgid "Course"
+#~ msgstr "کورس"
+
+#~ msgid "Add New"
+#~ msgstr "افزودن"
+
+#~ msgid "Add New Course"
+#~ msgstr "افزودن کورس جدید"
+
+#~ msgid "Edit Course"
+#~ msgstr "ویرایش کورس"
+
+#~ msgid "New Course"
+#~ msgstr "کورس جدید"
+
+#~ msgid "All Courses"
+#~ msgstr "تمامی کورسها"
+
+#~ msgid "View Course"
+#~ msgstr "نمایش کورس"
+
+#~ msgid "Search Courses"
+#~ msgstr "جستجوی کورسها"
+
+#~ msgid "No Courses found"
+#~ msgstr "هیچ کورسی یافت نشد"
+
+#~ msgid "No Courses found in the Trash"
+#~ msgstr "هیچ کورسی در زباله دان یافت نشد"
+
+#~ msgid "Holds our Courses and Course specific data"
+#~ msgstr "اینجا محل ذخیره سازی اطلاعات کورس های ما میباشد"
+
+#~ msgid "Course updated. <a href=\"%s\">View course</a>"
+#~ msgstr "کورس بروزرسانی شد. <a href=\"%s\">نمایش کورس</a>"
+
+#~ msgid "Custom field updated."
+#~ msgstr "زمینه دلخواه بروز  شد."
+
+#~ msgid "Custom field deleted."
+#~ msgstr "زمینه دلخواه حذف شد."
+
+#~ msgid "Course updated."
+#~ msgstr "کورس بروزرسانی شد."
+
+#~ msgid "Course restored to revision from %s"
+#~ msgstr "این کورس از %s باز گردانی شده است."
+
+#~ msgid "Course published. <a href=\"%s\">View course</a>"
+#~ msgstr "کورس اضافه شد. <a href=\"%s\">نمایش کورس</a>"
+
+#~ msgid "Course saved."
+#~ msgstr "کورس ذخیره شد."
+
+#~ msgid "Course submitted. <a target=\"_blank\" href=\"%s\">Preview course</a>"
+#~ msgstr "کورس ارسال شد. <a target=\"_blank\" href=\"%s\">نمایش کورس</a>"
+
+#~ msgid ""
+#~ "Course scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+#~ "\"%2$s\">Preview course</a>"
+#~ msgstr ""
+#~ "کورس برای : <strong>%1$s</strong>زمانبندی شد. <a target=\"_blank\" href="
+#~ "\"%2$s\">نمایش کورس</a>"
+
+#~ msgid "M j, Y @ G:i"
+#~ msgstr "M j, Y @ G:i"
+
+#~ msgid ""
+#~ "Course draft updated. <a target=\"_blank\" href=\"%s\">Preview course</a>"
+#~ msgstr ""
+#~ "پیش نویس کورس بروز رسانی شد. <a target=\"_blank\" href=\"%s\">نمایش کورس</"
+#~ "a>"
+
+#~ msgid "Search Results for: %s"
+#~ msgstr "نتایج جستجو برای: %s"
+
+#~ msgid "Register in course"
+#~ msgstr "ثبت نام در دوره"
+
+#~ msgid "Register In : %s"
+#~ msgstr "ثبت نام در : %s"
+
+#~ msgid "First Name"
+#~ msgstr "نام"
+
+#~ msgid "Last Name"
+#~ msgstr "نام خانوادگی(تخلص)"
+
+#~ msgid "Phone Number"
+#~ msgstr "شماره تماس"
+
+#~ msgid "Degree"
+#~ msgstr "مدرک تحصیلی"
+
+#~ msgid "One thought on &ldquo;%s&rdquo;"
+#~ msgstr "یک نظر برای &ldquo;%s&rdquo;"
+
+#~ msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr "%1$s نظر برای &ldquo;%2$s&rdquo;"
+
+#~ msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+#~ msgstr "%1$s نظر برای &ldquo;%2$s&rdquo;"
+
+#~ msgid "1 comment on “%2$s”"
+#~ msgstr "1 یک نظر برای  “%2$s”"
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgstr "یک نظر برای &ldquo;%2$s&rdquo;"
+
+#~ msgid "You have changes that are not saved. Would you like to save them now?"
+#~ msgstr "شما تغییراتی دارید که ذخیره نشده است. میخواهید آنها را ذخیره کنید؟"
+
+#~ msgid "Are you sure? Resetting will lose all custom values."
+#~ msgstr ""
+#~ "مطمئن هستید؟ بازگشت به تنظیمات اولیه تمامی تغییرات شما را حذف خواهد کرد."
+
+#~ msgid "Are you sure? Resetting will lose all custom values in this section."
+#~ msgstr ""
+#~ "مطمئن هستید؟ بازگشت به تنظیمات اولیه تمامی تغییرات این بخش را حذف خواهد کرد"
+
+#~ msgid ""
+#~ "Your current options will be replaced with the values of this preset. "
+#~ "Would you like to proceed?"
+#~ msgstr ""
+#~ "گزینه های حال حاضر شما با مقادیر از پیش تعیین شده جایگزین خواهد شد. آیا "
+#~ "مایل هستید ؟"
+
+#~ msgid "Please Wait"
+#~ msgstr "لطفا منتظر باشید"
+
+#~ msgid "There was an error saving. Here is the result of your action:"
+#~ msgstr "مشکلی زیر در هنگام ذخیره تنظیمات رخ داده است:"
+
+#~ msgid ""
+#~ "There was a problem with your action. Please try again or reload the page."
+#~ msgstr ""
+#~ "مشکلی در عمل درخواستی شما بوجود آمد، لطفا دوباره تلاش کنید یا صفحه را "
+#~ "دوباره بارگزاری نمایید."
+
+#~ msgid ""
+#~ "Warning- This options panel will not work properly without javascript!"
+#~ msgstr "اخطار! این پانل گزینه ها بدون جاوا اسکریپت درست کار نخواهد کرد."
+
+#~ msgid "Settings Imported!"
+#~ msgstr "تنظیمات درون ریزی شد!"
+
+#~ msgid "All Defaults Restored!"
+#~ msgstr "تمامی مقادیر اولیه بازگردانی شد"
+
+#~ msgid "Section Defaults Restored!"
+#~ msgstr "تمامی مقادیر اولیه این بخش بازگردانی شد"
+
+#~ msgid "Settings Saved!"
+#~ msgstr "تنظیمات ذخیره شد"
+
+#~ msgid "Settings have changed, you should save them!"
+#~ msgstr "تنظیمات تغییر کرده است. باید آنها را ذخیره کنید"
+
+#~ msgid "error(s) were found!"
+#~ msgstr "خطا(ها)یی یافت شد."
+
+#~ msgid "warning(s) were found!"
+#~ msgstr "اخطار(ها)یی یافت شد!"
+
+#~ msgid ""
+#~ "<strong>Your panel has bundled outdated copies of Redux Framework template "
+#~ "files</strong> &#8211; if you encounter functionality issues this could be "
+#~ "the reason. Ensure you update or remove them."
+#~ msgstr ""
+#~ "<strong>پنل شما از نسخه منسوخ شده فریمورک ریدوکس استفاده میکند!</strong> "
+#~ "&#8211; این بدین معنی است که ممکن است شما با مشکلاتی مواجه شوید. هرچه "
+#~ "زودتر برای بروزرسانی آنها ویا حذفشان اقدام نمایید."
+
+#~ msgid "Options panel created using %1$s"
+#~ msgstr "پنل تنظیمات با استفاده از %1$s ساخته شده است"
+
+#~ msgid "Redux Framework"
+#~ msgstr "فریمورک ریدوکس"
+
+#~ msgid "Options"
+#~ msgstr "تنظیمات"
+
+#~ msgid "Enable"
+#~ msgstr "فعال"
+
+#~ msgid "Disable"
+#~ msgstr "غیر فعال"
+
+#~ msgid "moving the mouse over"
+#~ msgstr "جابجایی موس بر روی"
+
+#~ msgid "clicking"
+#~ msgstr "کلیک شود"
+
+#~ msgid ""
+#~ "Hints are tooltips that popup when %d the hint icon, offering addition "
+#~ "information about the field in which they appear.  They can be %d d by "
+#~ "using the link below."
+#~ msgstr ""
+#~ "نکات راهنمایی هستند که در موقع %d بر روی آیکن راهنما نمایش داده میشود که "
+#~ "اطلاعات اضافه در مورد فیلدهای و کارایی شان ارائه میکند. آنها میتوانند %d "
+#~ "با استفاده از لینک زیر"
+
+#~ msgid "Hints"
+#~ msgstr "نکات"
+
+#~ msgid "Invalid security credential.  Please reload the page and try again."
+#~ msgstr ""
+#~ "اعتبارنامه امنیتی نامعتبر است. لطفا صفحه را مجددا بارگذاری کنید و دوباره "
+#~ "تلاش کنید."
+
+#~ msgid "Invalid user capability.  Please reload the page and try again."
+#~ msgstr ""
+#~ "قابلیت کاربر نامعتبر است. لطفا صفحه را مجددا بارگذاری کنید و دوباره تلاش "
+#~ "کنید."
+
+#~ msgid "Your panel has no fields. Nothing to save."
+#~ msgstr "پنل شما هیچ فیلدی ندارد. چیزی برای ذخیره سازی نیست"
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the Redux "
+#~ "Framework support site in your config's <code>admin_bar_links</code> "
+#~ "argument.  This is sample data.  Please change or remove this data before "
+#~ "shipping your product."
+#~ msgstr ""
+#~ "<strong>پیام فریمورک ریدوکس: </strong> ارجاع هایی به سایت پشتیبانی ریدوکس "
+#~ "فریمورک در تنظیمات شما وجود دارد<code>admin_bar_links</code>آرگومان. این "
+#~ "یک داده نمونه میباشد.لطفا قبل از برخورد به مشکل آنها را تغییر داده و یا "
+#~ "حذف نمایید."
+
+#~ msgid ""
+#~ "<strong>Redux Framework Notice: </strong>There are references to the Redux "
+#~ "Framework support site in your config's <code>share_icons</code> "
+#~ "argument.  This is sample data.  Please change or remove this data before "
+#~ "shipping your product."
+#~ msgstr ""
+#~ "<strong>پیام فریمورک ریدوکس: </strong> ارجاع هایی به سایت پشتیبانی ریدوکس "
+#~ "فریمورک در تنظیمات شما وجود دارد<code>share_icons</code>آرگومان. این یک "
+#~ "داده نمونه میباشد.لطفا قبل از برخورد به مشکل آنها را تغییر داده و یا حذف "
+#~ "نمایید."
+
+#~ msgid "Dismiss"
+#~ msgstr "رد کردن"
+
+#~ msgid ""
+#~ "Please wait a few minutes, then try refreshing the page. Unable to load "
+#~ "some remotely hosted scripts."
+#~ msgstr ""
+#~ "لطفا دقایقی را منتظر بمانید، پس از آن صفحه را دوباره بارگزاری کنید. دسترسی "
+#~ "به برخی اسکریپتها ممکن نیست."
+
+#~ msgid ""
+#~ "If you are developing offline, please download and install the <a href=\"%s"
+#~ "\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass "
+#~ "the our CDN and avoid this warning"
+#~ msgstr ""
+#~ "اگر شما در حال توسعه در حالت آفلاین هستید لطفا <a href=\"%s\" target="
+#~ "\"_blank\">Redux Vendor Support</a> پلاگین/اکستنشن را دانلود و نصب کنید تا "
+#~ "اخطار CDN را دور بزنید!"
+
+#~ msgid "Redux Framework Warning"
+#~ msgstr "اخطار ریدوکس فریم ورک"
+
+#~ msgid "%s CDN unavailable.  Some controls may not render properly."
+#~ msgstr "%s CDN غیر فعال است. برخی کنترلها ممکن است صحیح ارائه نشود."
+
+#~ msgid ""
+#~ "The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+#~ "installed or not activated and thus, some controls may not render "
+#~ "properly.  Please ensure that it is installed and <a href=\"%s"
+#~ "\">activated</a>"
+#~ msgstr ""
+#~ "کنید! <a href=\"%s\"> پلاگین حمایت فروشنده </a> را (و یا پسوند) یا نصب "
+#~ "نشده است یا نه فعال و در نتیجه، برخی از کنترل ممکن است به درستی ارائه نشده "
+#~ "است. لطفا اطمینان حاصل شود که آن نصب شده است و کنید! <a href=\"%s\"> </a> "
+#~ "را فعال"
+
+#~ msgid "File Permission Issues"
+#~ msgstr "مسائل اجازه فایل"
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s به طور صحیح نصب شد."
+
+#~ msgid "All installations have been completed."
+#~ msgstr "تمامی مراحل نصب به صورت کامل انجام شد"
+
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "نصب پلاگین %1$s (%2$d/%3$d)"
+
+#~ msgid "Home page Options"
+#~ msgstr "گزینه های صفحه اصلی"
+
+#~ msgid "Contact informations to be displayed in the header of website "
+#~ msgstr "اطلاعات تماس در سربرگ وب سایت نمایش داده می شود"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "متاسفیم صفحه مورد نظر یافت نشد."
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try one of the "
+#~ "links below or a search?"
+#~ msgstr ""
+#~ "به نظر می رسد هیچ چیز در این مکان پیدا نشده است. احتمال دارد جستجو را "
+#~ "امتحان کنید؟"
+
+#~ msgid "Most Used Categories"
+#~ msgstr "دسته های بیشتر استفاده شده"
+
+#~ msgid "Try looking in the monthly archives. %1$s"
+#~ msgstr "به بایگانی ماهانه نگاهی بیندازید. %1$s"
+
+#~ msgid "Continue reading <span class=\"meta-nav\">&amp;raquo;</span>"
+#~ msgstr "ادامه مطلب <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Web Design & Development - Ali qorbani"
+#~ msgstr "طراحی و پشتیبانی توسط \"علی قربانی"
+
+#~ msgid "Momtazhost"
+#~ msgstr "ممتازهاست"
+
+#~ msgid "Copyright %1$S , &copy; %2$S. All rights reserved."
+#~ msgstr "%1$s &copy; تمام حقوق برای سایت %2$s  محفوظ است."
+
+#~ msgid "Footer Menu"
+#~ msgstr "منوی فوتر ( پایین صفحه )"
+
+#~ msgid "language Menu"
+#~ msgstr "منوی انتخاب زبان"
+
+#~ msgid "Istiftaat Menu"
+#~ msgstr "منوی استفتائات"
+
+#~ msgid "Main content one"
+#~ msgstr "محتوای اصلی اول"
+
+#~ msgid "Main Slider"
+#~ msgstr "اسلایدر اصلی"
+
+#~ msgid "Istiftaat Sidebar"
+#~ msgstr "سایدبار استفتائات"
+
+#~ msgid "Shobahat Sidebar"
+#~ msgstr "سایدبار شبهات"
+
+#~ msgid "Sidebar Publications"
+#~ msgstr "سایدبار تالیفات"
+
+#~ msgid "Sidebar Selection"
+#~ msgstr "انتخاب سایدبار"
+
+#~ msgid "For Support contact us : +93774499000"
+#~ msgstr "برای پشتیبانی با ما تماس بگیرید: +93774499000"
+
+#~ msgid "Author: Ali Qorbani tel: +93782867557"
+#~ msgstr "بخش طراحی : علی قربانی تلفن: +93782867557"
+
+#~ msgid "Technical information"
+#~ msgstr "پشتیبانی"
+
+#~ msgid "language"
+#~ msgstr "زبان"
+
+#~ msgid "Activate a new <a href=\"%s\">Menu</a> for language location"
+#~ msgstr ""
+#~ "لطفا یک منو را از بخش مدیریت <a href=\"%s\">منو ها </a>برای انتخاب زبان "
+#~ "فعال کنید"
+
+#~ msgid "Main menu"
+#~ msgstr "منوی اصلی"
+
+#~ msgid "Activate a new <a href=\"%s\">Menu</a> for Main_nav location"
+#~ msgstr ""
+#~ "لطفا یک منو را از بخش مدیریت<a href=\"%s\"> منوها</a> برای منوی اصلی فعال "
+#~ "کنید"
+
+#~ msgid "My Post Section Title"
+#~ msgstr "عنوان بخش نوشته های من"
+
+#~ msgid "Description for this field"
+#~ msgstr "توضیحات برای این بخش "
+
+#~ msgid "Search Istiftaat &hellip;"
+#~ msgstr "جستجوی استفتائات &hellip;"
+
+#~ msgid "Read more"
+#~ msgstr "ادامه مطلب"
+
+#~ msgid "No result founded for: %s"
+#~ msgstr "هیچ نتیجه ای برای %s پیدا نشد."
+
+#~ msgid "Add a new widget to view here."
+#~ msgstr "یک ابزارک جدید اضافه کنید تا در اینجا نمایش داده شود"
+
+#~ msgid "shobahat categories"
+#~ msgstr "دسته بندی شبهات"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "خطایی در هنگام باز کردن فایل WXR رخ داده است"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr ""
+#~ "اطلاعات در زیر نمایش داده شده است. درون ریز خودکار درحال تلاش دوباره است..."
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr "فایل انتخابی یک فایل WXR نیست، عدم وجود/ غیر صحیح بودن ورژن WXR"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "متاسفانه خطایی رخ داده است"
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "فایل موجود نیست، لطفا دوباره تلاش کنید"
+
+#~ msgid "All done."
+#~ msgstr "عملیات با موفقیت به اتمام رسید"
+
+#~ msgid "Have fun!"
+#~ msgstr "راحت باشید!"
+
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "به یاد داشته باشید که حتما رمز و نقش کاربران وارد شده را بروز کنید"
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr ""
+#~ "فایل خروجی در آدرس <code>%s</code> پیدا نشد. ممکن است این مشکل بخاطر "
+#~ "تنظیمات سرور Permission باشد."
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr ""
+#~ "فایل WXR با ورژن %s ممکن است با این درون ریز به طور صحیح مطابقت نداشته "
+#~ "باشد. لطفا به روز رسانی کنید."
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr ""
+#~ "خطا در درون ریزی نویسنده %s. نوشته ها به کاربر حاضر انتقال داده خواهد شد."
+
+#~ msgid "Assign Authors"
+#~ msgstr "تنظیم کاربر"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "برای راحتی در ویرایش و ذخیره محتوای درون ریزی شده ممکن است بخواهید این "
+#~ "محتوا را به نویسنده موجود در سایت نسبت دهید. بعنوان مثال شاید خواسته باشید "
+#~ "که تمامی محتوای ورودی را به نویسنده <code> admin</code> نسبت دهید."
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "اگر کاربر جدید از طریق خود وردپرس ساخته شود یک رمز ورود به صورت تصادفی "
+#~ "برای کاربر جدید ثبت خواهد شد همچنین نقش کاربر جدید&#8217;s به عنوان %s ثبت "
+#~ "خواهد شد. تغییرات دستی برای کاربر جدید&#8217;s نیاز خواهد بود"
+
+#~ msgid "Import Attachments"
+#~ msgstr "درون ریزی پیوست شده ها"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "دانلود و درون ریزی پیوست شده ها"
+
+#~ msgid "Import author:"
+#~ msgstr "درون ریزی نویسنده:"
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "یا ساخت کاربر جدید با نام کاربری:"
+
+#~ msgid "as a new user:"
+#~ msgstr "بعنوان کاربر جدید:"
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "تنظیم مطالب برای کاربر موجود در سایت"
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "یا تنظیم مطالب برای کاربر موجود در سایت"
+
+#~ msgid "- Select -"
+#~ msgstr "-انتخاب-"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr "خطا در ساخت کاربر برای %s. مطالب به کاربر حاضر نسبت داده خواهد شد"
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "خطا در درون ریزی دسته بندی %s."
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "خطا در درون ریزی برچسب %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "خطا در درون ریزی %s %s."
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "خطا در درون ریزی &#8220;%s&#8221;: نوع نوشته غیرقابل شناسایی %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; از قبل وجود دارد"
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "خطا در درون ریزی %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "آیتم منو بخاطر عدم وجود نامک منو رد شد"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "آیتم منو بخاطر نامعتبر بودن نامک منو رد شد: %s"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "گیرنده فایل پیوست فعال نیست"
+
+#~ msgid "Invalid file type"
+#~ msgstr "نوع فایل نامعتبر است"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "پاسخی از سرور دریافت نشد"
+
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "سرور راه دور این خطا را برگرداند. %1$d %2$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "اندازه فایل راه دور نادرست است"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "هیچ فایلی دانلود نشد."
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "حجم فایل بسیار بالاست, حد مجاز %s است"
+
+#~ msgid "Import WordPress"
+#~ msgstr "درون ریزی وردپرس"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "نسخه جدیدتری از درون ریز موجود میباشد. لطفا به نسخه جدید %s بروزرسانی کنید "
+#~ "تا با فایلهای جدید خروجی به طور صحیح کار کند"
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "سلام! حالا فایل WXR خود را آپلود کنید بعد از آن ما محتوا را (شامل نوشته "
+#~ "ها، صفحات، نظرات، فیلد های دلخواه، دسته بندی ها و برچسبها) را در سایت وارد "
+#~ "خواهیم کرد."
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr ""
+#~ "یک فایل WXR(.xml) را انتخاب کنید. سپس روی upload file و Import کلیک کنید"
+
+#~ msgid ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+#~ msgstr ""
+#~ "درون دیزی <strong>نوشته ها، صفحات، نظرات، فیلدهای دلخواه، دسته بندی ها و "
+#~ "برچسبها </strong> از یک فایل خارج شده از وردپرس."
+
+#~ msgid "Slider content"
+#~ msgstr "محتوای اسلایدر"
+
+#~ msgid "First main content widget"
+#~ msgstr "ابزارک محتوای اصلی اول"
+
+#~ msgid "Archive for :"
+#~ msgstr "بایگانی :"
+
+#~ msgid "Archive"
+#~ msgstr "بایگانی"
+
+#~ msgid "First main content"
+#~ msgstr "محتوای اصلی اول"
+
+#~ msgid "Second main content"
+#~ msgstr "محتوای اصلی دوم"
+
+#~ msgid "permalink to %s"
+#~ msgstr "لینک مستقیم به :%s"
+
+#~ msgid "Second main content widget"
+#~ msgstr "ابزارک محتوای اصلی دوم"
+
+#~ msgid "Third main content"
+#~ msgstr "محتوای اصلی سوم"
+
+#~ msgid "Third main content widget"
+#~ msgstr "ابزارک محتوای اصلی سوم"
+
+#~ msgid "Fourth main content"
+#~ msgstr "محتوای اصلی چهارم"
+
+#~ msgid "Forth main content widget"
+#~ msgstr "ابزارک محتوای اصلی چهارم"
+
+#~ msgid "Main Sidebar Istifta"
+#~ msgstr "نوار کناری استفتائات"
+
+#~ msgid "page Id for archive:"
+#~ msgstr "آی دی صفحه بایگانی استفتائات"
+
+#~ msgid "Read more ..."
+#~ msgstr "ادامه مطلب ..."
+
+#~ msgid "Main content two"
+#~ msgstr "محتوای اصلی دوم"
+
+#~ msgid "Main content three"
+#~ msgstr "محتوای اصلی سوم"
+
+#~ msgid "Main content four"
+#~ msgstr "محتوای اصلی چهارم"
+
+#~ msgid "menu"
+#~ msgstr "منو"
+
+#~ msgid "Ali Qorbani"
+#~ msgstr "علی قربانی"
+
+#~ msgid "Momtaz.ws"
+#~ msgstr "ممتازهاست"
+
+#~ msgid "Design and develope by: %1$s %2$s."
+#~ msgstr "طراحی و توسعه توسط : %1$s %2$s."
+
+#~ msgid "<span class=\"sr-only\">Designer : %s.</span>"
+#~ msgstr "<span class=\"sr-only\">طراح  : %s.</span>"
+
+#~ msgid "Istiftaat"
+#~ msgstr "استفتائات"
+
+#~ msgid "Istifta"
+#~ msgstr "استفتاء"
+
+#~ msgid "Add New Istifta"
+#~ msgstr "افزودن استفتاء جدید"
+
+#~ msgid "Edit Istifta"
+#~ msgstr "ویرایش استفتاء"
+
+#~ msgid "View Istifta"
+#~ msgstr "نمایش استفتاء"
+
+#~ msgid "Search Istifta"
+#~ msgstr "جستجوی استفتاء"
+
+#~ msgid "No Istifta found"
+#~ msgstr "هیچ استفتائی پیدا نشد"
+
+#~ msgid "No Istifta found in trash"
+#~ msgstr "هیچ استفتائی در بازیافتی ها پیدا نشد"
+
+#~ msgid "Istifta Answer"
+#~ msgstr "جواب استفتاء"
+
+#~ msgid "Istifta'at Categories"
+#~ msgstr "دسته بندی استفتائات"
+
+#~ msgid "Social Widget"
+#~ msgstr "ابزارک شبکه های اجتماعی"
+
+#~ msgid "social networks"
+#~ msgstr "شبکه های اجتماعی"
+
+#~ msgid "Title Of widget :"
+#~ msgstr "عنوان ابزارک"
+
+#~ msgid "CSS Classes :"
+#~ msgstr "کلاس سی اس اس"
+
+#~ msgid "rss :"
+#~ msgstr "آر اس اس"
+
+#~ msgid "Facebook :"
+#~ msgstr "فیسبوک"
+
+#~ msgid "YouTube :"
+#~ msgstr "یوتوب"
+
+#~ msgid "Twitter :"
+#~ msgstr "تویتر"
+
+#~ msgid "LinkedIn :"
+#~ msgstr "لینکد.این"
+
+#~ msgid "Instagram :"
+#~ msgstr "اینستاگرم"
+
+#~ msgid "Pinterest :"
+#~ msgstr "پین ترست"
+
+#~ msgid "google plus :"
+#~ msgstr "گوگل پلاس"
+
+#~ msgid "Istifta'at"
+#~ msgstr "استفتائات"
+
+#~ msgid "Parent Istifta"
+#~ msgstr "استفتاء بالاتر"
+
+#~ msgid "All Istifta'at"
+#~ msgstr "تمامی استفتائات"
+
+#~ msgid "Update Istifta"
+#~ msgstr "بروزرسانی استفتاء"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "در سطل زباله پیدا نشد"
+
+#~ msgid "Istifta'at asked from website users"
+#~ msgstr "استفتائات پرسیده شده از طریق وبسایت"
+
+#~ msgid "Copyright %1$S, &copy; %2$S. All rights reserved."
+#~ msgstr "کپی رایت %1$S &copy; تمامی حقوق برای %2$S محفوظ است."
+
+#~ msgid "Copyright %1$s, &copy; %2$s. All rights reserved."
+#~ msgstr "کپی رایت%$1s  تمامی حقوق مادی و معنوی برای %2$s محفوظ میباشد."
+
+#~ msgid "Copyright %1$s , &copy; %2$s. All rights reserved."
+#~ msgstr "%1$s &copy; تمام حقوق برای %2$s  محفوظ است."
+
+#~ msgid "Copyright &copy; %1$s %2$s. All rights reserved."
+#~ msgstr "%1$s &copy; تمام حقوق برای %2$s  محفوظ است."
+
+#~ msgid "%1$s, All rights reserved for : %2$s"
+#~ msgstr "%1$s, تمامی حقوق مادی و معنوی متعلق است به : %2$s"
+
+#~ msgid "Design and develope by"
+#~ msgstr "طراحی و توسعه وب"
+
+#~ msgid "First Sidebar"
+#~ msgstr "نوار کناری اول"
+
+#~ msgid "Second Sidebar"
+#~ msgstr "نوار کناری دوم"
+
+#~ msgid "Third Sidebar"
+#~ msgstr "نوار کناری سوم"
+
+#~ msgid "Fourth Sidebar"
+#~ msgstr "نوار کناری چهارم"
+
+#~ msgid "All rights reserved for : %1$s , %2$s"
+#~ msgstr "%1$s , تمامی حقوق مادی و معنوی متعلق است به \" %2$s \" "
+
+#~ msgid "All right reserved for: "
+#~ msgstr "تمامی حقوق مادی و معنوی محفوظ است "
+
+#~ msgid "All right reserved for"
+#~ msgstr "تمامی حقوق مادی و معنوی محفوظ است"
+
+#~ msgid "permalink to:"
+#~ msgstr "لینک مستقیم به :"
+
+#~ msgid "Read More"
+#~ msgstr "ادامه "
+
+#~ msgid "read more ..."
+#~ msgstr "ادامه مطلب…"
